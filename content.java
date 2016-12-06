@@ -1,5 +1,5 @@
-public class Cmqctl {
+public class Cgtenx {
     public static void main() {
-        System.out.println("mernk");
+        System.out.println("gybnv");
     }
 }
