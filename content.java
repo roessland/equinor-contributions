@@ -1,5 +1,5 @@
-public class Cgtenx {
+public class Cbxttm {
     public static void main() {
-        System.out.println("gybnv");
+        System.out.println("txjqw");
     }
 }
