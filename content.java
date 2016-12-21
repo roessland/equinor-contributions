@@ -1,5 +1,5 @@
-public class Cpviwu {
+public class Cadmtp {
     public static void main() {
-        System.out.println("uryar");
+        System.out.println("mkffv");
     }
 }
