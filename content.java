@@ -1,5 +1,5 @@
-public class Cadmtp {
+public class Cktlpt {
     public static void main() {
-        System.out.println("mkffv");
+        System.out.println("gieeg");
     }
 }
