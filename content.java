@@ -1,5 +1,5 @@
-public class Cktlpt {
+public class Ckekbs {
     public static void main() {
-        System.out.println("gieeg");
+        System.out.println("ghaep");
     }
 }
