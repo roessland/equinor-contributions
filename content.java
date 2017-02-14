@@ -1,6 +1,6 @@
 public class Crajvl {
     public static void main() {
         System.out.println("nbenm");
-        System.out.println("dmsrg");
+        System.out.println("kubwe");
     }
 }
