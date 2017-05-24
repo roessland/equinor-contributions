@@ -1,5 +1,5 @@
-public class Cqopvd {
+public class Crtwml {
     public static void main() {
-        System.out.println("oytps");
+        System.out.println("qqeev");
     }
 }
