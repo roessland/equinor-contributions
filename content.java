@@ -6,5 +6,6 @@ public class Cxqpva {
         System.out.println("smirr");
         System.out.println("ohdot");
         System.out.println("kwswn");
+        System.out.println("eaauo");
     }
 }
