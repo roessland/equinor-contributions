@@ -4,6 +4,7 @@ import quvhjalffj
     func main() {
         fmt.println("vyxoh");
         fmt.println("mtfba");
-        fmt.println("pvcip");
+        fmt.println("wxksy");
+        fmt.println("jvmht");
     }
 }
