@@ -5,6 +5,10 @@ import quvhjalffj
         fmt.println("vyxoh");
         fmt.println("mtfba");
         fmt.println("wxksy");
-        fmt.println("jvmht");
+        fmt.println("prayp");
+        fmt.println("clrti");
+        fmt.println("drung");
+        fmt.println("kurvr");
+        fmt.println("ebhiq");
     }
 }
