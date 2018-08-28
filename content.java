@@ -21,6 +21,5 @@ public class Cxqpva {
         System.out.println("tryau");
         System.out.println("xcxgx");
         System.out.println("jkrro");
-        System.out.println("xtnve");
     }
 }
