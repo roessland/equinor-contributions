@@ -5,3 +5,4 @@ SELECT * from lopsq;
 SELECT * from yijic;
 SELECT * from tfdvv;
 SELECT * from eruuq;
+SELECT * from lewtj;
