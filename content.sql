@@ -11,4 +11,3 @@ SELECT * from bsdwu;
 SELECT * from meemh;
 SELECT * from vqlkw;
 SELECT * from atcld;
-SELECT * from wvshv;
