@@ -12,3 +12,4 @@ SELECT * from meemh;
 SELECT * from vqlkw;
 SELECT * from atcld;
 SELECT * from bikwk;
+SELECT * from fpoci;
