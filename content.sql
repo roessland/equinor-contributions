@@ -14,3 +14,4 @@ SELECT * from atcld;
 SELECT * from bikwk;
 SELECT * from fpoci;
 SELECT * from tdsff;
+SELECT * from cjfgj;
