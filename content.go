@@ -8,6 +8,6 @@ import quvhjalffj
         fmt.println("prayp");
         fmt.println("clrti");
         fmt.println("drung");
-        fmt.println("kurvr");
+        fmt.println("wrmpt");
     }
 }
