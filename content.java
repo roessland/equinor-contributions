@@ -33,6 +33,5 @@ public class Cxqpva {
         System.out.println("rirtg");
         System.out.println("onhrb");
         System.out.println("tlubn");
-        System.out.println("ncque");
     }
 }
