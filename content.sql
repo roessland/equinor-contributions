@@ -15,3 +15,4 @@ SELECT * from bikwk;
 SELECT * from fpoci;
 SELECT * from tdsff;
 SELECT * from cjfgj;
+SELECT * from ylqnr;
